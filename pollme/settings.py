@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         # 'HOST': '104.155.152.226',
-        'HOST': 'fjdb.postgres.database.azure.com',
-        'USER': 'farhath@fjdb',
-        'PASSWORD': 'Motorola@1',
+        'HOST': 'komal123.postgres.database.azure.com',
+        'USER': 'komal@komal123',
+        'PASSWORD': 'Bhagavan@123',
         'NAME': 'postgres',
         'PORT':'5432',
     }
