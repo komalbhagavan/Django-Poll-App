@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'pollme.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        # 'HOST': '104.155.152.226',
+        
         'HOST': 'komal123.postgres.database.azure.com',
         'USER': 'komal@komal123',
         'PASSWORD': 'Bhagavan@123',
